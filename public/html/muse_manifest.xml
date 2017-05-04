@@ -1,0 +1,21 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1492999299051">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4071196807" ref="index"/>
+    <file name="demo-page.css" crc="106228292" ref="demo-page"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:demo-page"/>
+    <file name="museutils.js" crc="4232573551" ref="index:demo-page"/>
+    <file name="whatinput.js" crc="86476730" ref="index:demo-page"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:demo-page"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:demo-page"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index:demo-page"/>
+  </folder>
+  <file name="index.html" crc="368933133" seo="true" mt="1492995784471" redirect="true"/>
+  <file name="demo-page.html" crc="147028967" seo="true" mt="1492997976850" redirect="true"/>
+</manifest>
